@@ -39,7 +39,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-### Cloning the repository
+## Cloning the repository
 
 ```shell
 git clone https://github.com/AntonioErdeljac/next13-ai-saas.git
