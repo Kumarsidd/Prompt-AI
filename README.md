@@ -1,4 +1,4 @@
-### !!!OPENAI & REPLICATE API IS MIGHT GO DOWN SO KEEP ON CHECKING THE BILLS!!!
+### !!!OPENAI & REPLICATE API MIGHT GO DOWN SO KEEP ON CHECKING THE BILLS!!!
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
